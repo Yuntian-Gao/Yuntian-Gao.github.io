@@ -10,14 +10,14 @@ repository: "Yuntian-Gao/Yuntian-Gao.github.io"
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"
-minimal_mistakes_skin: "air"
-search: true
-search_full_content: true
+minimal_mistakes_skin: "default"
+search: false
 
 # Site author
 author:
   name: "Yuntian Gao"
-  bio: "Welcome to my personal website."
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Personal website."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
