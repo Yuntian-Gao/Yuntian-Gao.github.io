@@ -77,6 +77,10 @@ $masthead-link-color-hover: #e60000;
   display: flex;
   align-items: center;
   gap: 0.55rem;
+
+  span {
+    min-width: 0;
+  }
 }
 
 .section-heading-icon {
@@ -105,8 +109,22 @@ $masthead-link-color-hover: #e60000;
     padding: 1rem;
   }
 
+  .greedy-nav {
+    min-width: 0;
+  }
+
+  .greedy-nav .visible-links,
+  .greedy-nav__toggle,
+  .greedy-nav .hidden-links {
+    display: none !important;
+  }
+
   #main {
     padding-top: 0.75rem;
+  }
+
+  .page__content {
+    overflow-wrap: anywhere;
   }
 
   .section-heading-icon {

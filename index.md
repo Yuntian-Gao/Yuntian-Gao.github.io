@@ -33,7 +33,7 @@ Fast-LeWM replaces repeated autoregressive latent rollout with action-prefix pre
 Intern, WAM Department<br>
 July 2026 – Present
 
-<h2 id="honors" class="section-heading-with-icon"><img src="/assets/images/robomaster-logo.png" alt="" class="section-heading-icon">Honors & Competition Experience</h2>
+<h2 id="honors" class="section-heading-with-icon"><img src="/assets/images/robomaster-logo.png" alt="" class="section-heading-icon"><span>Honors & Competition Experience</span></h2>
 
 - **2024:** National First Prize, RoboMaster University Championship (Super Confrontation), responsible for vision algorithms
 - **2023:** National First Prize, RoboMaster University Championship (Super Confrontation), responsible for vision algorithms
