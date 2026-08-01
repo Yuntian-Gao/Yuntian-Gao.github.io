@@ -21,8 +21,6 @@ My research interests include:
 - 3D computer vision and visual representation learning
 - World models and efficient visual planning
 
-### Fast LeWorldModel
-
 **[Fast LeWorldModel](https://arxiv.org/abs/2606.26217)**<br>
 **Yuntian Gao**, Xiangyu Xu<br>
 arXiv, 2026. [[Paper](https://arxiv.org/abs/2606.26217)] [[PDF](https://arxiv.org/pdf/2606.26217)]
