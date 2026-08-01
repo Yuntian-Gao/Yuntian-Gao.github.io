@@ -14,12 +14,14 @@ I am **Yuntian Gao (高云天)**, a first-year M.S. student in Statistics at [Xi
 **Xi'an Jiaotong University**<br>
 M.S. in Statistics, first year
 
-## Research Interests {#research}
+## Research {#research}
+
+My research interests include:
 
 - 3D computer vision and visual representation learning
 - World models and efficient visual planning
 
-## Publications {#publications}
+### Fast LeWorldModel
 
 **[Fast LeWorldModel](https://arxiv.org/abs/2606.26217)**<br>
 **Yuntian Gao**, Xiangyu Xu<br>
@@ -33,7 +35,6 @@ Fast-LeWM replaces repeated autoregressive latent rollout with action-prefix pre
 Intern, WAM Department<br>
 July 2026 – Present
 
-<h2 id="honors" class="section-heading-with-icon"><img src="/assets/images/robomaster-logo.png" alt="" class="section-heading-icon"><span>Honors & Competition Experience</span></h2>
+<h2 id="honors" class="section-heading-with-icon"><img src="/assets/images/robomaster-mark.png" alt="" class="section-heading-icon"><span>Honors & Competition Experience</span></h2>
 
-- **2024:** National First Prize, RoboMaster University Championship (Super Confrontation), responsible for vision algorithms
-- **2023:** National First Prize, RoboMaster University Championship (Super Confrontation), responsible for vision algorithms
+- **2023 & 2024:** National First Prize, RoboMaster University Championship (RMUC), responsible for vision algorithms
