@@ -73,6 +73,19 @@ $masthead-link-color-hover: #e60000;
   color: #333333;
 }
 
+.section-heading-with-icon {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+}
+
+.section-heading-icon {
+  flex: 0 0 auto;
+  width: 56px;
+  max-height: 42px;
+  object-fit: contain;
+}
+
 .page__footer {
   min-height: 10rem;
   color: #ffffff;
@@ -94,5 +107,10 @@ $masthead-link-color-hover: #e60000;
 
   #main {
     padding-top: 0.75rem;
+  }
+
+  .section-heading-icon {
+    width: 46px;
+    max-height: 34px;
   }
 }
