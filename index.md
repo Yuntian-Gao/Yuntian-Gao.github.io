@@ -7,7 +7,7 @@ permalink: /
 
 ## About Me {#about}
 
-I am **Yuntian Gao (高云天)**, a first-year M.S. student in Statistics at Xi'an Jiaotong University, advised by [Prof. Xiangyu Xu](https://xuxy09.github.io/). My research focuses on **3D Computer Vision** and **World Models**.
+I am **Yuntian Gao**, a first-year M.S. student in Statistics at Xi'an Jiaotong University, advised by [Prof. Xiangyu Xu](https://xuxy09.github.io/). My research focuses on **3D Computer Vision** and **World Models**.
 
 ## Education
 

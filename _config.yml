@@ -25,10 +25,12 @@ author:
   links:
     - label: "Xi'an Jiaotong University"
       icon: "fas fa-fw fa-building-columns"
-      url: "https://en.xjtu.edu.cn/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Yuntian-Gao"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:gyt_xjtu@163.com"
 
 # Footer
 footer:
